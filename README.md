@@ -45,8 +45,7 @@ Me chamo Daniel (Zidani) Nunes Novaes, tenho 22 anos e sou natural do Rio de Jan
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="200"  
     src="https://github-readme-stats.vercel.app/api?username=ziidani&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
