@@ -56,7 +56,8 @@ Me chamo Daniel (Zidani) Nunes Novaes, tenho 22 anos e sou natural do Rio de Jan
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziidani&theme=dracula&custom_title=Tecnologias&langs_count=9" 
   />
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2450422" style='border:none;'></iframe>
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ZIDANI.png)
+
 
 
 </p>
